@@ -1,0 +1,16 @@
+checkpoints/
+pretrained/
+__pycache__/
+results/
+a2d2_language/
+a2d2_language/wandb/
+a2d2_pep/wandb/
+a2d2_mol/wandb/
+logs/
+*.pt
+*.pyc
+*.out
+*.json
+*.log
+*.txt
+*.wandb
